@@ -1,4 +1,5 @@
-Says "Hello, This is a Grocery Store!"
+Daniel Phillips 5/2/17
+
 
 gets the response
   if any lower case letters
