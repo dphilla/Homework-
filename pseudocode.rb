@@ -19,4 +19,9 @@ If response is GOODBYE
 
 #for tomorrow...
 ready_to_quit = false
-puts
+puts "HELLO, THIS IS A GROCERY STORE!"
+
+input = gets.to_s
+until ready_to_quit == True
+  if input
+end
