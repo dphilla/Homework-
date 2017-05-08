@@ -1,6 +1,4 @@
-
-#then, work to scale with:
-
+#first pass
 
 array1 = [2, 1, 0]
 array1.length.times do                      #outer loop
